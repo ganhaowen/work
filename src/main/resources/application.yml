@@ -16,7 +16,7 @@ spring:
       prefix: /
       suffix:   .jsp
   aop:
-    proxy-target-class:    false
+    proxy-target-class: false
   http:
     encoding:
       charset: UTF-8
